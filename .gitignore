@@ -16,3 +16,6 @@ node_modules
 #!.yarn/cache
 .pnp.*
 .yarnrc.yml
+
+# folders
+examples
